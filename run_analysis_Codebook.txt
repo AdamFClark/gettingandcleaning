@@ -1,0 +1,10 @@
+## Coursera: Getting and Cleaning Data
+## Course Project
+
+### Codebook for Final Tidy Set
+The Activity represents user's activity status
+ - WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING")
+
+The Subject is the user's unique ID (1-10)
+
+The MeanReading is the mean accelerometer reading across a set of raw and derived values reported for each activity/subject pair
